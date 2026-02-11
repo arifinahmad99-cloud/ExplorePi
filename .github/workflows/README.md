@@ -384,11 +384,6 @@ pytest -v
 
 This project is licensed under the MIT License - see LICENSE file for details.
 
-## 👤 Author
-
-**Ahmad Arifin**
-- GitHub: [@arifinahmad99-cloud](https://github.com/arifinahmad99-cloud)
-
 ## 🙏 Acknowledgments
 
 - FastAPI framework
